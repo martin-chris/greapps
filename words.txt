@@ -1,0 +1,3 @@
+who==This is a definition.
+what==what is a definition.
+why==why is a definition.
